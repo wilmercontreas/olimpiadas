@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.sub-titulo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 1.3em;
+}
+
+.parrafo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-bottom: 1.3em;
+}
+
+.parrafo--final {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
