@@ -1,0 +1,18 @@
+.padre {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25rem auto;
+}
+
+.padre__header {
+    height: 100vh;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    border-style: none solid none none;
+    border-color: #bcbcbc;
+}
+
+.padre__section {
+    padding: 3em 2.5em;
+}
