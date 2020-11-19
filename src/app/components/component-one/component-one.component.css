@@ -1,0 +1,36 @@
+.titulo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.sub-titulo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 1.3em;
+}
+
+.parrafo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    margin-bottom: 1.3em;
+}
+
+.parrafo-respuesta {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 1.3em;
+}
+
+pre {
+    width: 100%;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    color: #868585;
+    padding: 1em;
+    border-style: none none none solid;
+    border-color: #6aa4c8;
+    margin-bottom: 1.5em;
+}
