@@ -43,3 +43,19 @@ pre {
     cursor: pointer;
     margin-bottom: 2em;
 }
+
+.botones {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boton {
+    width: auto;
+    padding: 0.5em 1.3em;
+    background-color: #bcbcbc;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
